@@ -24,7 +24,7 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is PERSONALBOT USER",
-      "value": "PERSONALBOT User",
+      "value": "PERSONALBOT USER",
       "required": false
     },
     "ALIVE_MSG": {
