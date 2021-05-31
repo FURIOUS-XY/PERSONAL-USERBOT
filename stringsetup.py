@@ -2,7 +2,7 @@ from telethon.sessions import StringSession
 from telethon.sync import TelegramClient
 
 print("")
-print("""Welcome To AuraXBot String Session\nGenerator By @AuraXOwner\n\n""")
+print("""Welcome To PersonalBot String Session\nGenerator By @Furious_X_Y\n\n""")
 print("""Enter Your Valid Details To Continue!\n\n """)
 
 API_KEY = input("API_ID:  ")
@@ -18,11 +18,11 @@ while True:
             session = client.session.save()
             client.send_message(
                 "me",
-                f"Here is your TELEGRAM STRING SESSION\n(Tap to copy it) \n\n `{session}` \n\n And Visit @AuraXSupport For Any Help!\n\n",
+                f"Here is your TELEGRAM STRING SESSION\n(Tap to copy it) \n\n `{session}` \n\n And Visit @Furious_X_Y For Any Help!\n\n",
             )
 
             print(
-                "Thanks for Choosing AuraXBot Have A Good Time....Note That When You Terminate the Old Session ComeBack And Genrate A New String Session Old One Wont Work"
+                "Thanks for Choosing PersonalBot Have A Good Time....Note That When You Terminate the Old Session ComeBack And Genrate A New String Session Old One Wont Work"
             )
     except:
         print("")
