@@ -6,10 +6,10 @@ _get_repolink () {
     regex='(https?)://github.com/.+/.+'
     if [[ $AURAX_REPO == "AuraXBot" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL1B5Q29kZW50cy9BdXJhWFVzZXJib3QvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL0ZVUklPVVMtWFkvUEVSU09OQUxCT1QvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
     elif [[ $AURAX_REPO == "AuraXBot" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL1B5Q29kZW50cy9BdXJhWFVzZXJib3QvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL0ZVUklPVVMtWFkvUEVSU09OQUxCT1QvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
     elif [[ $AURAX_REPO =~ $regex ]]
     then
         if [[ $AURAX_REPO_BRANCH ]]
@@ -19,7 +19,7 @@ _get_repolink () {
             echo "${AURAX_REPO}/archive/master.zip"
         fi
     else
-        echo "aHR0cHM6Ly9naXRodWIuY29tL1B5Q29kZW50cy9BdXJhWFVzZXJib3QvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL0ZVUklPVVMtWFkvUEVSU09OQUxCT1QvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
     fi
 }
 
