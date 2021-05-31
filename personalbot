@@ -1,0 +1,58 @@
+#!/bin/bash
+
+
+_get_repolink () {
+    local regex
+    regex='(https?)://github.com/.+/.+'
+    if [[ $Personal_REPO == "PersonalBot" ]]
+    then
+        echo "aHR0cHM6Ly9naXRodWIuY29tL1B5Q29kZW50cy9BdXJhWFVzZXJib3QvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
+    elif [[ $Personal_REPO == "PersonalBot" ]]
+    then
+        echo "aHR0cHM6Ly9naXRodWIuY29tL1B5Q29kZW50cy9BdXJhWFVzZXJib3QvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
+    elif [[ $Personal_REPO =~ $regex ]]
+    then
+        if [[ $Personal_REPO_BRANCH ]]
+        then
+            echo "${Personal_REPO}/archive/${Personal_REPO_BRANCH}.zip"
+        else
+            echo "${Personal_REPO}/archive/master.zip"
+        fi
+    else
+        echo "aHR0cHM6Ly9naXRodWIuY29tL1B5Q29kZW50cy9BdXJhWFVzZXJib3QvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
+    fi
+}
+
+
+_set_bot () {
+    local zippath
+    zippath="PersonalBot.zip"
+    echo "  Downloading source code ..."
+    wget -q $(_get_repolink) -O "$zippath"
+    echo "  Unpacking Data ..."
+    PersonalPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
+    unzip -qq "$zippath"
+    echo "Done"
+    echo "  Cleaning ..."
+    rm -rf "$zippath"
+    sleep 5
+    cd $PersonalPATH
+    echo "    Starting PersonalBot    "
+    echo "
+    ┈┈┈╲┈┈┈┈╱
+┈┈╱▔▔▔▔╲
+┈┈┃┈▇┈┈▇┈┃
+╭╮┣━━━━━━┫╭╮
+┃┃┃┈┈┈┈┈┈┃┃┃
+╰╯┃┈┈┈┈┈┈┃╰╯
+┈┈╰┓┏━━┓┏╯
+┈┈┈╰╯┈┈╰╯
+
+
+    "
+
+    python3 ../setup/updater.py ../requirements.txt requirements.txt
+    python3 -m userbot
+}
+
+_set_bot
