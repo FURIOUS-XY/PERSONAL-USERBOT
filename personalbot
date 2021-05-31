@@ -6,10 +6,10 @@ _get_repolink () {
     regex='(https?)://github.com/.+/.+'
     if [[ $Personal_REPO == "PersonalBot" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL2Z1cmlvdXMteHkvcGVyc29uYWwtdXNlcmJvdC9hcmNoaXZlL21hc3Rlci56aXA" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL2Z1cmlvdXMteHkvcGVyc29uYWxib3QvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
     elif [[ $Personal_REPO == "PersonalBot" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL2Z1cmlvdXMteHkvcGVyc29uYWwtdXNlcmJvdC9hcmNoaXZlL21hc3Rlci56aXA" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL2Z1cmlvdXMteHkvcGVyc29uYWxib3QvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
     elif [[ $Personal_REPO =~ $regex ]]
     then
         if [[ $Personal_REPO_BRANCH ]]
@@ -19,7 +19,7 @@ _get_repolink () {
             echo "${Personal_REPO}/archive/master.zip"
         fi
     else
-        echo "aHR0cHM6Ly9naXRodWIuY29tL2Z1cmlvdXMteHkvcGVyc29uYWwtdXNlcmJvdC9hcmNoaXZlL21hc3Rlci56aXA" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL2Z1cmlvdXMteHkvcGVyc29uYWxib3QvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
     fi
 }
 
