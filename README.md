@@ -1,5 +1,21 @@
 <h1 align="center"> P E R S O N A L B O T </h1>
 
+[![PERSONAL BOT]()](https://t.me/Furious_X_Y)
+
+<h1 align="center">INSTRUCTIONS</h1>
+
+<details>
+  <summary> <h1 align="center">INSTRUCTIONS</h1> </summary>
+
+  - Read carefully
+        
+        - Fork at your own risk.
+        
+        - Owner will not be responsible for any kinds for ban due to bot.
+
+        - You can host this project on heroku,  Zeet, Uffizi.
+
+        - Please ask to owner before using codes.
 
 <h3> DEPLOY TO HEROKU </h3>
 
