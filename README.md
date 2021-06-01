@@ -4,7 +4,7 @@
 [![GitHub tag](https://img.shields.io/github/tag/Furious-XY/Personal-Userbot?include_prereleases=&sort=semver)](https://github.com/Furious-XY/Personal-Userbot/releases/)
 [![License](https://img.shields.io/badge/License-GNU-blue)](#license)
 [![issues - Personal-Userbot](https://img.shields.io/github/issues/Furious-XY/Personal-Userbot)](https://github.com/Furious-XY/Personal-Userbot/issues)
-[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://furious-xy.github.io/Personal-Userbot/)
+[![View site-GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://furious-xy.github.io/Personal-Userbot/)
 
 
 
