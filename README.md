@@ -18,8 +18,7 @@
 
         - Please ask to owner before using codes.
         
-    
- <details>
+   
 
 # DEPLOYING
 
