@@ -5,7 +5,7 @@
 <details>
 
 <summary> <h1 align="center">🧾INSTRUCTIONS🧾</h1> </summary>
-
+<details>
   - Read carefully
         
         - Fork at your own risk.
@@ -15,7 +15,7 @@
         - You can host this project on heroku,  Zeet, Uffizi.
 
         - Please ask to owner before using codes.
-<details>
+
 
 # DEPLOYING
 
