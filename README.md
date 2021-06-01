@@ -82,7 +82,7 @@
 [![Contact Us](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/Furious_X_Y)
 
 <details>
-  <summary> <h4>• LICENSE •</h4> </summary>
+  <summary> <h3>• LICENSE •</h3> </summary>
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
