@@ -1,10 +1,10 @@
-<h1 align="center"> P E R S O N A L B O T </h1>
+<h1 align="center"> ❣️P E R S O N A L B O T❣️ </h1>
 
 [![PERSONAL BOT](https://telegra.ph/file/331629d248354bcb945e0.jpg)](https://t.me/Furious_X_Y)
 
 
 <details>
-  <summary> <h1 align="center">INSTRUCTIONS</h1> </summary>
+  <summary> <h1 align="center">🧾INSTRUCTIONS🧾</h1> </summary>
 
   - Read carefully
         
