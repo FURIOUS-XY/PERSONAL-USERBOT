@@ -1,6 +1,6 @@
 <h1 align="center"> P E R S O N A L B O T </h1>
 
-[![PERSONAL BOT]()](https://t.me/Furious_X_Y)
+[![PERSONAL BOT](https://telegra.ph/file/331629d248354bcb945e0.jpg)](https://t.me/Furious_X_Y)
 
 
 <details>
