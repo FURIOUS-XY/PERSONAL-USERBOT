@@ -5,7 +5,7 @@
 <details>
 
 <summary> <h1 align="center">🧾INSTRUCTIONS🧾</h1> </summary>
-<details>
+
   - Read carefully
         
         - Fork at your own risk.
