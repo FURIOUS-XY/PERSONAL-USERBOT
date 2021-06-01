@@ -17,6 +17,7 @@
         - You can host this project on heroku,  Zeet, Uffizi.
 
         - Please ask to owner before using codes.
+      </details>
         
    
 
