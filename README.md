@@ -8,7 +8,7 @@
 
 
 
-<h1 align="center"> ❣️ P E R S O N A L B O T ❣️ </h1>
+<h1 align="center"> 🇮🇳 P E R S O N A L B O T 🇮🇳 </h1>
 
  - This is a simple userbot made by Team [Furious XY ](https://t.me/Furious_X_Y)for telegram. 
 
@@ -68,7 +68,7 @@
     - API ID, API HASH, PHONE NUMBER (WITH COUNTRY CODE)
 
 
-# CREDITS
+# CREDITS 👨‍🔬
 
 <h2 align="center"> <a href="https://github.com/Harsh-78/Dark-userbot">💥 DARKBOT 💥</a></h2>
  
