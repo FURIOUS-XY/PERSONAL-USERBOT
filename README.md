@@ -34,7 +34,7 @@
         - Please ask to owner before using codes.
 </details>
 
-# DEPLOYING
+# ⚡ DEPLOYING ⚡
 
 ### Deploy on Heroku
   - To host on heroku click on below link
@@ -110,7 +110,7 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 Released under [GNU](/LICENSE) by [@Furious-XY](https://github.com/Furious-XY).
 </details>
 
-<details> <summary> <h3>Mandatory Vars</h3> </summary>
+<details> <summary> <h3>• Mandatory Vars •</h3> </summary>
 
   - Some of the environment variables are mandatory.
 - These are listed below.
