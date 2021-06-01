@@ -2,7 +2,6 @@
 
 [![PERSONAL BOT]()](https://t.me/Furious_X_Y)
 
-<h1 align="center">INSTRUCTIONS</h1>
 
 <details>
   <summary> <h1 align="center">INSTRUCTIONS</h1> </summary>
