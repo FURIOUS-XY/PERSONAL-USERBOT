@@ -11,9 +11,7 @@
 [![PERSONAL BOT](https://telegra.ph/file/3b787d6a45c519e32fc2e.jpg)](https://t.me/Furious_X_Y)
 
 
-<details>
-
-<summary> <h1 align="center">🧾INSTRUCTIONS🧾</h1> </summary>
+<details><summary> <h1 align="center">🧾INSTRUCTIONS🧾</h1> </summary>
 
   - Read carefully
         
@@ -61,7 +59,7 @@
 # CREDITS
 
 <h2 align="center"> <a href="https://github.com/Harsh-78/Dark-userbot">💥 DARKBOT 💥</a></h2>
- One and only. Others with some misfuntioning brain stay out from this SUPER POWERFULL BOT😏
+ 
 
  ## • FURIOUS XY  »»  <a href="https://github.com/Furious-xy" alt="FURIOUS-XY"> <img src="https://img.shields.io/badge/Furious-XY-E5E4E2?logo=github" /></a>
 
@@ -70,8 +68,7 @@
 ### • FuriousXprince  »»  <a href="https://github.com/FuriosXprince" alt="Harsh-78"> <img src="https://img.shields.io/badge/Harsh-78-E5E4E2?logo=github" /></a>
 
 
-<details>
-  <summary> <h3>Mandatory Vars</h3> </summary>
+<details> <summary> <h3>Mandatory Vars</h3> </summary>
 
   - Some of the environment variables are mandatory.
 - These are listed below.
