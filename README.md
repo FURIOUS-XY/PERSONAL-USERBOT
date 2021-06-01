@@ -3,8 +3,7 @@
 [![PERSONAL BOT](https://telegra.ph/file/3b787d6a45c519e32fc2e.jpg)](https://t.me/Furious_X_Y)
 
 
-<details>
-  <summary> <h1 align="center">🧾INSTRUCTIONS🧾</h1> </summary>
+<details><summary> <h1 align="center">🧾INSTRUCTIONS🧾</h1> </summary>
 
   - Read carefully
         
