@@ -1,3 +1,7 @@
+[![Furious-XY - Personal-Userbot](https://img.shields.io/static/v1?label=Furious-XY&message=Personal-Userbot&color=blue&logo=github)](https://github.com/Furious-XY/Personal-Userbot)
+[![stars - Personal-Userbot](https://img.shields.io/github/stars/Furious-XY/Personal-Userbot?style=social)](https://github.com/Furious-XY/Personal-Userbot)
+[![forks - Personal-Userbot](https://img.shields.io/github/forks/Furious-XY/Personal-Userbot?style=social)](https://github.com/Furious-XY/Personal-Userbot)
+
 <h1 align="center"> ❣️ P E R S O N A L B O T ❣️ </h1>
 
  - This is a simple userbot made by Team Furious XY for telegram. 
@@ -69,6 +73,36 @@
 
 ### • FuriousXprince ※┄┄➳ <a href="https://github.com/FuriosXprince" alt="Harsh-78"> <img src="https://img.shields.io/badge/Harsh-78-E5E4E2?logo=github" /></a>
 
+# Official Support
+
+<a href="https://t.me/Furious_X_Y"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
+
+<a href="https://t.me/Furious_X_Y"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
+
+[![Contact Us](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/Furious_X_Y)
+
+<details>
+  <summary> <h4>• LICENSE •</h4> </summary>
+
+![](https://www.gnu.org/graphics/gplv3-or-later.png)
+
+Copyright (C) 2021 Furious XY
+
+Poject [Personal bot](https://github.com/Furious-xy/personal-userbot) is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see <https://www.gnu.org/licenses/>.
+
+Released under [GNU](/LICENSE) by [@Furious-XY](https://github.com/Furious-XY).
+</details>
 
 <details> <summary> <h3>Mandatory Vars</h3> </summary>
 
