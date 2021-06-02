@@ -53,7 +53,7 @@
   - Generate String session on repl it
    
        
-       [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@darkharshop/darkbot-string-generator#main.py) 
+       [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/darkharshop/darkbot-string-generator#main.py) 
         
   - Generate by running code on Termux
        - Install git package
