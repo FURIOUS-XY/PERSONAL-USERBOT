@@ -8,7 +8,7 @@
 
 
 
-<h1 align="center"> 🇮🇳 THE CLONE OF P E R S O N A L B O T 🇮🇳 </h1>
+<h1 align="center"> 🇮🇳 P E R S O N A L B O T 🇮🇳 </h1>
 
  - This is a simple userbot made by Team [Furious XY ](https://t.me/Furious_X_Y)for telegram. 
 
